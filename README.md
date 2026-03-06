@@ -1,4 +1,3 @@
-##1. Project Title
 Optimizing IT Support Team Performance Using Analytics
 
 ## 1. Problem Statement
