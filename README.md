@@ -8,18 +8,18 @@ This project aims to apply data analytics techniques to evaluate IT support oper
 ## 2. Data Set Description
 The dataset used in this project represents IT support ticket records, where each row corresponds to a single support request raised by a user.
 The dataset contains operational and service-related information that helps analyze support team efficiency and service quality.
-Key Attributes in the Dataset
-Ticket ID – Unique identifier assigned to each support ticket
-Ticket Created Date – Date and time when the ticket was raised
-Ticket Closed Date – Date and time when the issue was resolved
-Priority Level – Severity level of the issue (Low, Medium, High, Critical)
-Category – Type of issue (Hardware, Software, Network, Security, etc.)
-Assigned Agent – Support staff member responsible for resolving the ticket
-Response Time – Time taken by the support agent to respond to the ticket
-Resolution Time – Total time taken to fully resolve the issue
-Ticket Status – Current state of the ticket (Open, Closed, Escalated)
-Customer Satisfaction Score (CSAT) – Feedback rating provided by the user after ticket resolution
-The dataset structure is suitable for performance evaluation, operational analysis, and dashboard visualization.
+Key Attributes in the Dataset -
+*Ticket ID – Unique identifier assigned to each support ticket
+*Ticket Created Date – Date and time when the ticket was raised
+*Ticket Closed Date – Date and time when the issue was resolved
+*Priority Level – Severity level of the issue (Low, Medium, High, Critical)
+*Category – Type of issue (Hardware, Software, Network, Security, etc.)
+*Assigned Agent – Support staff member responsible for resolving the ticket
+*Response Time – Time taken by the support agent to respond to the ticket
+*Resolution Time – Total time taken to fully resolve the issue
+*Ticket Status – Current state of the ticket (Open, Closed, Escalated)
+*Customer Satisfaction Score (CSAT) – Feedback rating provided by the user after ticket resolution
+*The dataset structure is suitable for performance evaluation, operational analysis, and dashboard visualization.
 
 ## 3. KPIs
 To evaluate IT support team performance, the following KPIs are analyzed:
