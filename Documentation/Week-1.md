@@ -5,4 +5,5 @@ Another concept introduced during this week was data visualization, which refers
 We also learned about dummy data, which is sample data used for practice and learning purposes while working on projects.
 A significant part of the week focused on data cleaning and its importance. We discussed how real-world datasets are often uncleaned or unstructured, meaning they may contain missing values, duplicates, or inconsistent formats. Because of this, cleaning the data becomes an important step before performing any analysis.
 In addition, we were introduced to the concepts of Power BI and Power Query, where we learned what these tools are and how they are used in the process of data analysis and data preparation.
+
 Overall, the first week helped build a theoretical understanding of data, data analysis, and the importance of preparing and organizing data before performing any analysis.
