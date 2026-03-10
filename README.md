@@ -117,6 +117,3 @@ Based on the insights obtained from the analysis, the following improvements are
 | Excel | Data preparation and cleaning |
 | GitHub | Project documentation and version control |
 
-## 9. Project Workflow
-
-**Data Collection → Data Cleaning → Exploratory Data Analysis → Data Modeling → KPI Calculation → Dashboard Creation → Insight Generation**
